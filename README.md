@@ -12,7 +12,8 @@ This project demonstrates basic CRUD (Create, Read, Update, Delete) operations u
 - Displayed all contacts in the database.
 - Retrieved a single contact using its unique **ObjectId**.
 - Queried contacts with an age greater than 18.
-- Queried contacts with an age greater than 18 and names containing **"ah"**.
+- Queried contacts with an age greater than 18 and names containing **"en"**returns no result.
+- Queried contacts with an age greater than 18 and names containing **"or"** and got results.
 - Updated the contact **Kefi Seif** by changing the first name to **Anis**.
 - Deleted all contacts whose age was less than 5.
 - Displayed the updated contact list after the deletion operation.
